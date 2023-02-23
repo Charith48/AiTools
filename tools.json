@@ -1,0 +1,368 @@
+{
+    "text":[
+        {
+            "name":"chatGPT",
+            "description":"ChatGPT can be used for a variety of purposes such as creating chatbots, automated customer service, virtual assistants, and language translation tools.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
+            "url":"https://chat.openai.com/chat"
+        },
+        {
+            "name":"Preplexity Ai",
+            "description":"Perplexity Ai is a natural language processing tool that can be used for various applications such as chatbots, sentiment analysis, and language translation.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+            "url":"https://www.perplexity.ai"
+        },
+        {
+            "name":"Grammerly",
+            "description":"Grammarly is an online writing tool that can be used for various purposes such as improving writing skills, checking for grammatical errors, and enhancing the clarity and readability of written content.",
+            "imgUrl":"https://static-00.iconduck.com/assets.00/grammarly-icon-512x512-t4562asu.png",
+            "url":"https://www.grammarly.com"
+        },
+        {
+            "name":"Repurpose",
+            "description":"Repurpose is a content repurposing tool that can be used for repackaging and republishing content across various platforms, such as social media, blogs, and podcasts",
+            "imgUrl":"https://www.appengine.ai/uploads/images/profile/logo/Repurpose.AI-AI.png",
+            "url":"https://repurpose.io"
+        },
+        {
+            "name":"Copy.ai",
+            "description":"Copy.ai is an AI-powered writing tool that can be used for various applications such as generating content ideas, creating marketing copy, and producing social media posts. ",
+            "imgUrl":"https://i.ytimg.com/an/iS3VZF1BkmqIA_jcf9o9rA/featured_channel.jpg?v=60c10233",
+            "url":"https://www.copy.ai"
+        },
+        {
+            "name":"Firefiles",
+            "description":"Fireflies is an AI-powered meeting assistant that can be used for scheduling meetings, transcribing, and taking meeting notes.",
+            "imgUrl":"https://app.fireflies.ai/logo.png",
+            "url":"https://fireflies.ai"
+        },
+        {
+            "name":"Plag.ai",
+            "description":"Plag.ai is a plagiarism detection tool that can be used for academic and professional purposes",
+            "imgUrl":"https://www.plag.ai/images/og/default.png",
+            "url":"https://chat.openai.com/chat"
+        }
+    ],
+    "image":[
+        {
+            "name":"Dall-E-2",
+            "description":"DALL-E-2 is a powerful image generation AI model developed by OpenAI that can create high-quality and diverse images from textual descriptions.",
+            "imgUrl":"https://openai.com/content/images/2022/05/openai-avatar.png",
+            "url":"https://openai.com/dall-e-2/"
+        },
+        {
+            "name":"PlaygroundAi",
+            "description":"Playground AI is a platform developed by OpenAI that allows users to experiment with and train AI models using a simple drag-and-drop interface.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1673573862/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/playground-ai_211905_f43emy.webp",
+            "url":"https://playgroundai.com/"
+        },
+        {
+            "name":"Watermark remover",
+            "description":"Watermark Remover AI is an AI-powered tool that can remove watermarks from images and videos with high accuracy.",
+            "imgUrl":"https://play-lh.googleusercontent.com/Se4fAZAmIhT4n08nP8XhPUDlQ5XF3k5ZPBJL4oOtYht-F4ZDFlxB9A2vsF4DhagXbtg=w600-h300-pc0xffffff-pd",
+            "url":"https://www.watermarkremover.io/"
+        },
+        {
+            "name":"Leiapix converter",
+            "description":"LeiaPix Converter is an AI-powered tool developed by Leia Inc. that can convert 2D images and videos into 3D format, which can be viewed on 3D devices without glasses",
+            "imgUrl":"https://cdn-1.webcatalog.io/catalog/leiapix-converter/leiapix-converter-icon-filled-256.png?v=1676415898368",
+            "url":"https://convert.leiapix.com/ "
+        },
+        {
+            "name":"Anime AI",
+            "description":"Anime AI is an AI-powered tool that can generate anime-style artwork from user inputs. Its potential uses include helping animators and game developers to create high-quality anime-style characters and backgrounds for their productions",
+            "imgUrl":"https://seeklogo.com/images/F/Fullmetall_Alchemist_anime-logo-59840B9E1F-seeklogo.com.png",
+            "url":"https://www.zmo.ai/ai-anime-generator/"
+        }
+    ],
+    "audio":[
+        {
+            "name":"Synthesia",
+            "description":"Synthesia can be used as a practice tool for musicians who are learning to play the piano, guitar, or other instruments.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/owvad1ujw9mxh6orjae3",
+            "url":"https://www.synthesia.io/"
+        },
+        {
+            "name":"Voice",
+            "description":"Voice AI can be used to enable voice-based search on a website, allowing users to search for content or products using natural language voice commands. ",
+            "imgUrl":"https://voice.ai/img/static/logo-init.png",
+            "url":"https://voice.ai/"
+        },
+        {
+            "name":"SoundDraw.io",
+            "description":"Sounddraw.io can be used by musicians and composers to create visual representations of their musical compositions, helping them to better understand and refine their work.",
+            "imgUrl":"data:image/jpeg;base64,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",
+            "url":"https://soundraw.io/"
+        }
+    ],
+    "video":[
+        {
+            "name":"Synthesia",
+            "description":"Synthesia can be used as a practice tool for musicians who are learning to play the piano, guitar, or other instruments.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/owvad1ujw9mxh6orjae3",
+            "url":"https://www.synthesia.io/"
+        },
+        {
+            "name":"Watermark remover",
+            "description":"Watermark Remover AI is an AI-powered tool that can remove watermarks from images and videos with high accuracy.",
+            "imgUrl":"https://play-lh.googleusercontent.com/Se4fAZAmIhT4n08nP8XhPUDlQ5XF3k5ZPBJL4oOtYht-F4ZDFlxB9A2vsF4DhagXbtg=w600-h300-pc0xffffff-pd",
+            "url":"https://www.watermarkremover.io/"
+        },
+        {
+            "name":"Kaiber",
+            "description":"Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine",
+            "imgUrl":"https://pbs.twimg.com/profile_images/1606454086106157056/uDTjPX3t_400x400.jpg",
+            "url":"https://www.kaiber.ai/"
+        },
+        {
+            "name":"Leiapix converter",
+            "description":"LeiaPix Converter is an AI-powered tool developed by Leia Inc. that can convert 2D images and videos into 3D format, which can be viewed on 3D devices without glasses",
+            "imgUrl":"https://cdn-1.webcatalog.io/catalog/leiapix-converter/leiapix-converter-icon-filled-256.png?v=1676415898368",
+            "url":"https://convert.leiapix.com/ "
+        },
+        {
+            "name":"Fliki",
+            "description":"Fliki is a collaborative platform that allows teams to create and organize information in a visual and interactive way, making it a valuable tool for project management, brainstorming sessions, and knowledge management.",
+            "imgUrl":"https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ae3fc5b61c6c1164d2490c236cf71022/fliki-ai.png",
+            "url":"https://fliki.ai/"
+        },
+        {
+            "name":"RunwayML",
+            "description":"RunwayML is a machine learning platform that can be used by artists and designers to create interactive and generative artworks, by training machine learning models to generate images, animations, and other visual content.",
+            "imgUrl":"http://www.runwayml.com/images/logo-square.png",
+            "url":"https://runwayml.com/"
+        }
+    ],
+    "marketingandbussiness":[
+        {
+            "name":"Jasper",
+            "description":"Jasper is an open-source platform that allows developers to build voice-activated applications and devices, such as virtual assistants and smart home systems, by providing tools for natural language processing and speech recognition.",
+            "imgUrl":"https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f8f324101efad07fbbf0f0272bfe0cb9/jasper-ai.jpg",
+            "url":"https://www.jasper.ai/"
+        }
+    ],
+    "art":[
+        {
+            "name":"DeepArt",
+            "description":"Deep Art AI is a platform that allows artists and designers to apply style transfer to their artwork, creating unique and visually stunning pieces by blending different artistic styles and techniques.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Deep_Art_Effects_App_Logo.png/768px-Deep_Art_Effects_App_Logo.png",
+            "url":"https://www.deeparteffects.com/"
+        },
+        {
+            "name":"MidJourney",
+            "description":"Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+            "url":"https://midjourney.com/"
+        }
+    ],
+    "developer":[
+        {
+            "name":"Mixo.io",
+            "description":"Mixo.io is a platform that allows DJs and music enthusiasts to manage their music library and create playlists, by providing features such as automatic metadata tagging and intelligent playlist suggestions.",
+            "imgUrl":"https://www.mixo.io/img/mixo-logo.svg",
+            "url":"https://www.mixo.io/"
+        },
+        {
+            "name":"Tome.app",
+            "description":"Tome.app is a platform that allows writers and publishers to create and distribute interactive and multimedia-rich digital publications, such as eBooks, magazines, and instructional materials.",
+            "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7WTwLFksqi_xM3qUB1GCjm7zBiSHw9q4lNk3BDP_XA&s",
+            "url":"https://beta.tome.app/"
+        },
+        {
+            "name":"chatGPT",
+            "description":"ChatGPT can be used for a variety of purposes such as creating chatbots, automated customer service, virtual assistants, and language translation tools. It can also be used in research to generate human-like responses for testing purposes.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
+            "url":"https://chat.openai.com/chat"
+        },
+        {
+            "name":"Preplexity Ai",
+            "description":"Perplexity Ai is a natural language processing tool that can be used for various applications such as chatbots, sentiment analysis, and language translation.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+            "url":"https://www.perplexity.ai"
+        }
+    ],
+    "designer":[
+        {
+            "name":"Outfitsai",
+            "description":"OutfitsAI is a website that uses artificial intelligence to suggest outfits and style recommendations to users based on their preferences and body type, making it a valuable tool for fashion enthusiasts and people who want to improve their personal style.",
+            "imgUrl":"https://www.saashub.com/images/app/service_logos/234/fddqcw9qzkrc/large.png?1675593667",
+            "url":"https://www.outfitsai.com/"
+        }
+    ],
+    "all":[
+        {
+            "name":"chatGPT",
+            "description":"ChatGPT can be used for a variety of purposes such as creating chatbots, automated customer service, virtual assistants, and language translation tools.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
+            "url":"https://chat.openai.com/chat"
+        },
+        {
+            "name":"Preplexity Ai",
+            "description":"Perplexity Ai is a natural language processing tool that can be used for various applications such as chatbots, sentiment analysis, and language translation.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+            "url":"https://www.perplexity.ai"
+        },
+        {
+            "name":"Grammerly",
+            "description":"Grammarly is an online writing tool that can be used for various purposes such as improving writing skills, checking for grammatical errors, and enhancing the clarity and readability of written content.",
+            "imgUrl":"https://static-00.iconduck.com/assets.00/grammarly-icon-512x512-t4562asu.png",
+            "url":"https://www.grammarly.com"
+        },
+        {
+            "name":"Repurpose",
+            "description":"Repurpose is a content repurposing tool that can be used for repackaging and republishing content across various platforms, such as social media, blogs, and podcasts",
+            "imgUrl":"https://www.appengine.ai/uploads/images/profile/logo/Repurpose.AI-AI.png",
+            "url":"https://repurpose.io"
+        },
+        {
+            "name":"Copy.ai",
+            "description":"Copy.ai is an AI-powered writing tool that can be used for various applications such as generating content ideas, creating marketing copy, and producing social media posts. ",
+            "imgUrl":"https://i.ytimg.com/an/iS3VZF1BkmqIA_jcf9o9rA/featured_channel.jpg?v=60c10233",
+            "url":"https://www.copy.ai"
+        },
+        {
+            "name":"Firefiles",
+            "description":"Fireflies is an AI-powered meeting assistant that can be used for scheduling meetings, transcribing, and taking meeting notes.",
+            "imgUrl":"https://app.fireflies.ai/logo.png",
+            "url":"https://fireflies.ai"
+        },
+        {
+            "name":"Plag.ai",
+            "description":"Plag.ai is a plagiarism detection tool that can be used for academic and professional purposes",
+            "imgUrl":"https://www.plag.ai/images/og/default.png",
+            "url":"https://chat.openai.com/chat"
+        },
+        {
+            "name":"Dall-E-2",
+            "description":"DALL-E-2 is a powerful image generation AI model developed by OpenAI that can create high-quality and diverse images from textual descriptions.",
+            "imgUrl":"https://openai.com/content/images/2022/05/openai-avatar.png",
+            "url":"https://openai.com/dall-e-2/"
+        },
+        {
+            "name":"PlaygroundAi",
+            "description":"Playground AI is a platform developed by OpenAI that allows users to experiment with and train AI models using a simple drag-and-drop interface.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1673573862/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/playground-ai_211905_f43emy.webp",
+            "url":"https://playgroundai.com/"
+        },
+        {
+            "name":"Watermark remover",
+            "description":"Watermark Remover AI is an AI-powered tool that can remove watermarks from images and videos with high accuracy.",
+            "imgUrl":"https://play-lh.googleusercontent.com/Se4fAZAmIhT4n08nP8XhPUDlQ5XF3k5ZPBJL4oOtYht-F4ZDFlxB9A2vsF4DhagXbtg=w600-h300-pc0xffffff-pd",
+            "url":"https://www.watermarkremover.io/"
+        },
+        {
+            "name":"Leiapix converter",
+            "description":"LeiaPix Converter is an AI-powered tool developed by Leia Inc. that can convert 2D images and videos into 3D format, which can be viewed on 3D devices without glasses",
+            "imgUrl":"https://cdn-1.webcatalog.io/catalog/leiapix-converter/leiapix-converter-icon-filled-256.png?v=1676415898368",
+            "url":"https://convert.leiapix.com/ "
+        },
+        {
+            "name":"Anime AI",
+            "description":"Anime AI is an AI-powered tool that can generate anime-style artwork from user inputs. Its potential uses include helping animators and game developers to create high-quality anime-style characters and backgrounds for their productions",
+            "imgUrl":"https://seeklogo.com/images/F/Fullmetall_Alchemist_anime-logo-59840B9E1F-seeklogo.com.png",
+            "url":"https://www.zmo.ai/ai-anime-generator/"
+        },
+        {
+            "name":"Synthesia",
+            "description":"Synthesia can be used as a practice tool for musicians who are learning to play the piano, guitar, or other instruments.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/owvad1ujw9mxh6orjae3",
+            "url":"https://www.synthesia.io/"
+        },
+        {
+            "name":"Voice",
+            "description":"Voice AI can be used to enable voice-based search on a website, allowing users to search for content or products using natural language voice commands. ",
+            "imgUrl":"https://voice.ai/img/static/logo-init.png",
+            "url":"https://voice.ai/"
+        },
+        {
+            "name":"SoundDraw.io",
+            "description":"Sounddraw.io can be used by musicians and composers to create visual representations of their musical compositions, helping them to better understand and refine their work.",
+            "imgUrl":"data:image/jpeg;base64,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",
+            "url":"https://soundraw.io/"
+        },
+        {
+            "name":"Synthesia",
+            "description":"Synthesia can be used as a practice tool for musicians who are learning to play the piano, guitar, or other instruments.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/owvad1ujw9mxh6orjae3",
+            "url":"https://www.synthesia.io/"
+        },
+        {
+            "name":"Watermark remover",
+            "description":"Watermark Remover AI is an AI-powered tool that can remove watermarks from images and videos with high accuracy.",
+            "imgUrl":"https://play-lh.googleusercontent.com/Se4fAZAmIhT4n08nP8XhPUDlQ5XF3k5ZPBJL4oOtYht-F4ZDFlxB9A2vsF4DhagXbtg=w600-h300-pc0xffffff-pd",
+            "url":"https://www.watermarkremover.io/"
+        },
+        {
+            "name":"Kaiber",
+            "description":"Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine",
+            "imgUrl":"https://pbs.twimg.com/profile_images/1606454086106157056/uDTjPX3t_400x400.jpg",
+            "url":"https://www.kaiber.ai/"
+        },
+        {
+            "name":"Leiapix converter",
+            "description":"LeiaPix Converter is an AI-powered tool developed by Leia Inc. that can convert 2D images and videos into 3D format, which can be viewed on 3D devices without glasses",
+            "imgUrl":"https://cdn-1.webcatalog.io/catalog/leiapix-converter/leiapix-converter-icon-filled-256.png?v=1676415898368",
+            "url":"https://convert.leiapix.com/ "
+        },
+        {
+            "name":"Fliki",
+            "description":"Fliki is a collaborative platform that allows teams to create and organize information in a visual and interactive way, making it a valuable tool for project management, brainstorming sessions, and knowledge management.",
+            "imgUrl":"https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ae3fc5b61c6c1164d2490c236cf71022/fliki-ai.png",
+            "url":"https://fliki.ai/"
+        },
+        {
+            "name":"RunwayML",
+            "description":"RunwayML is a machine learning platform that can be used by artists and designers to create interactive and generative artworks, by training machine learning models to generate images, animations, and other visual content.",
+            "imgUrl":"http://www.runwayml.com/images/logo-square.png",
+            "url":"https://runwayml.com/"
+        },
+        {
+            "name":"Jasper",
+            "description":"Jasper is an open-source platform that allows developers to build voice-activated applications and devices, such as virtual assistants and smart home systems, by providing tools for natural language processing and speech recognition.",
+            "imgUrl":"https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f8f324101efad07fbbf0f0272bfe0cb9/jasper-ai.jpg",
+            "url":"https://www.jasper.ai/"
+        },
+        {
+            "name":"DeepArt",
+            "description":"Deep Art AI is a platform that allows artists and designers to apply style transfer to their artwork, creating unique and visually stunning pieces by blending different artistic styles and techniques.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Deep_Art_Effects_App_Logo.png/768px-Deep_Art_Effects_App_Logo.png",
+            "url":"https://www.deeparteffects.com/"
+        },
+        {
+            "name":"MidJourney",
+            "description":"Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+            "url":"https://midjourney.com/"
+        },
+        {
+            "name":"Mixo.io",
+            "description":"Mixo.io is a platform that allows DJs and music enthusiasts to manage their music library and create playlists, by providing features such as automatic metadata tagging and intelligent playlist suggestions.",
+            "imgUrl":"https://www.mixo.io/img/mixo-logo.svg",
+            "url":"https://www.mixo.io/"
+        },
+        {
+            "name":"Tome.app",
+            "description":"Tome.app is a platform that allows writers and publishers to create and distribute interactive and multimedia-rich digital publications, such as eBooks, magazines, and instructional materials.",
+            "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7WTwLFksqi_xM3qUB1GCjm7zBiSHw9q4lNk3BDP_XA&s",
+            "url":"https://beta.tome.app/"
+        },
+        {
+            "name":"chatGPT",
+            "description":"ChatGPT can be used for a variety of purposes such as creating chatbots, automated customer service, virtual assistants, and language translation tools. It can also be used in research to generate human-like responses for testing purposes.",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
+            "url":"https://chat.openai.com/chat"
+        },
+        {
+            "name":"Preplexity Ai",
+            "description":"Perplexity Ai is a natural language processing tool that can be used for various applications such as chatbots, sentiment analysis, and language translation.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+            "url":"https://www.perplexity.ai"
+        },
+        {
+            "name":"Outfitsai",
+            "description":"OutfitsAI is a website that uses artificial intelligence to suggest outfits and style recommendations to users based on their preferences and body type, making it a valuable tool for fashion enthusiasts and people who want to improve their personal style.",
+            "imgUrl":"https://www.saashub.com/images/app/service_logos/234/fddqcw9qzkrc/large.png?1675593667",
+            "url":"https://www.outfitsai.com/"
+        }
+    ]
+}
