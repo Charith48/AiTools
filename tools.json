@@ -41,8 +41,52 @@
             "description":"Plag.ai is a plagiarism detection tool that can be used for academic and professional purposes",
             "imgUrl":"https://www.plag.ai/images/og/default.png",
             "url":"https://chat.openai.com/chat"
+        },{
+            "name":"opus Ai",
+            "description":"Opus AI can be used in a variety of applications, including natural language processing, image and video recognition, and predictive analytics.",
+            "imgUrl":"https://media.licdn.com/dms/image/C560BAQEgPsSC9ZtqKQ/company-logo_200_200/0/1656131594300?e=2147483647&v=beta&t=I7NoMmRlqhNJaFNXIGDCQi3tLX_jI-QTEsFvbQSMQcc",
+            "url":"https://opus.ai/"
+        },
+        {
+            "name":"Descript",
+            "description":"Descript website can be used to create and edit videos with features like transcription, captions, and automatic audio editing. ",
+            "imgUrl":"https://seeklogo.com/images/D/descript-logo-915E459F46-seeklogo.com.png",
+            "url":"https://www.descript.com/"
+        },
+        {
+            "name":"Voice mod",
+            "description":"Voice mod website can be used for voice modulation and adding various voice effects to recordings, videos, or live streams.",
+            "imgUrl":"https://www.voicemod.net/v4/wp-content/uploads/2021/05/Voicemod-logo.jpg",
+            "url":"https://www.voicemod.net/"
+        },
+        {
+            "name":"latent Labs",
+            "description":"Latent Labs website can be used for creating and deploying machine learning models for a wide range of applications, such as natural language processing, computer vision, and predictive analytics.",
+            "imgUrl":"https://latentlabs.xyz/media/500x500-LL-XYZ.png",
+            "url":"https://latentlabs.xyz/"
+        },
+        {
+            "name":"Quillbot",
+            "description":"Quillbot can be used for rephrasing sentences, paragraphs or entire articles in a way that preserves the meaning of the original text.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hohs8swq3kxoldxg0crz",
+            "url":"https://quillbot.com/"
+        },
+        {
+            "name":"Genius sheets",
+            "description":"Genius Sheets website can be used for creating and sharing spreadsheets that can be accessed from anywhere",
+            "imgUrl":"https://attachments.developer.intuit.com/appcard-47243b68-a9c6-4153-93c5-ef2119fb3cbd.png",
+            "url":"https://www.geniussheets.com/"
+        },
+        {
+            "name":"murf",
+            "description":"",
+            "imgUrl":"https://elearningindustry.com/wp-content/uploads/2022/07/0acb6f302f5a661cecfb4584220b47eb.png",
+            "url":"https://murf.ai/"
         }
     ],
+
+
+
     "image":[
         {
             "name":"Dall-E-2",
@@ -73,8 +117,16 @@
             "description":"Anime AI is an AI-powered tool that can generate anime-style artwork from user inputs. Its potential uses include helping animators and game developers to create high-quality anime-style characters and backgrounds for their productions",
             "imgUrl":"https://seeklogo.com/images/F/Fullmetall_Alchemist_anime-logo-59840B9E1F-seeklogo.com.png",
             "url":"https://www.zmo.ai/ai-anime-generator/"
+        },{
+            "name":"Scribble diffusion",
+            "description":"Scribble Diffusion website can be used for creating and sharing digital illustrations, animations, and graphic designs.",
+            "imgUrl":"https://uploads-ssl.webflow.com/63994dae1033718bee6949ce/63ef4dad287fef66d8bb6a9b_scribblediffusion-logo.png",
+            "url":"https://scribblediffusion.com/"
         }
     ],
+
+
+
     "audio":[
         {
             "name":"Synthesia",
@@ -93,8 +145,16 @@
             "description":"Sounddraw.io can be used by musicians and composers to create visual representations of their musical compositions, helping them to better understand and refine their work.",
             "imgUrl":"data:image/jpeg;base64,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",
             "url":"https://soundraw.io/"
+        }, {
+            "name":"Voice mod",
+            "description":"Voice mod website can be used for voice modulation and adding various voice effects to recordings, videos, or live streams.",
+            "imgUrl":"https://www.voicemod.net/v4/wp-content/uploads/2021/05/Voicemod-logo.jpg",
+            "url":"https://www.voicemod.net/"
         }
     ],
+
+
+
     "video":[
         {
             "name":"Synthesia",
@@ -131,16 +191,32 @@
             "description":"RunwayML is a machine learning platform that can be used by artists and designers to create interactive and generative artworks, by training machine learning models to generate images, animations, and other visual content.",
             "imgUrl":"http://www.runwayml.com/images/logo-square.png",
             "url":"https://runwayml.com/"
+        },
+        {
+            "name":"Eightify",
+            "description":" AI Youtube Summary with GPT. Instant AI summaries for Youtube videos using GPT.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1673902625/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/hz6nhqytafnmyaivy8fl_jmxmsb.png",
+            "url":"https://eightify.app/"
         }
-    ],
+    ]
+    
+    
+    ,
     "marketingandbussiness":[
         {
             "name":"Jasper",
             "description":"Jasper is an open-source platform that allows developers to build voice-activated applications and devices, such as virtual assistants and smart home systems, by providing tools for natural language processing and speech recognition.",
             "imgUrl":"https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f8f324101efad07fbbf0f0272bfe0cb9/jasper-ai.jpg",
             "url":"https://www.jasper.ai/"
+        },{
+            "name":"Do not Pay",
+            "description":"The company created the DoNotPay AI chatbot as a legal services tool meant to help people deal with minor legal issues such as late fees, fines and traffic tickets",
+            "imgUrl":"data:image/jpeg;base64,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",
+            "url":"https://donotpay.com/"
         }
     ],
+
+
     "art":[
         {
             "name":"DeepArt",
@@ -153,8 +229,15 @@
             "description":"Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
             "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
             "url":"https://midjourney.com/"
+        },{
+            "name":"Bluewillow",
+            "description":"Blue Willow is a new image generator AI tool designed to help users create logos, graphics, and photo realistic scenes",
+            "imgUrl":"https://external-preview.redd.it/bluewillow-ai-art-community-v0-6EOipS1I6OA5cNVDMHnyiShF7f2CG42h4HQ0eWiSaiA.jpg?auto=webp&s=b5ee6af4a183318f4d0de5b4ba5597998bd87558",
+            "url":"https://www.bluewillow.ai/"
         }
     ],
+
+
     "developer":[
         {
             "name":"Mixo.io",
@@ -179,8 +262,30 @@
             "description":"Perplexity Ai is a natural language processing tool that can be used for various applications such as chatbots, sentiment analysis, and language translation.",
             "imgUrl":"https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
             "url":"https://www.perplexity.ai"
+        },{
+            "name":"Brancher ai",
+            "description":"Brancher.ai is a platform that enables users to connect and use AI models to create powerful apps without the need for coding knowledge.",
+            "imgUrl":"https://www.freshconsulting.com/wp-content/uploads/fly-images/35143/brancher-blog-hero-1024x1024.jpg",
+            "url":"https://www.brancher.ai/"
+        },{
+            "name":"codeium",
+            "description":"Codeium is the modern coding superpower, a free code acceleration toolkit built on cutting edge AI technology. Currently, Codeium provides code completion tool in over 20+ languages, with lightning fast speeds and state-of-the-art suggestion quality",
+            "imgUrl":"https://media.licdn.com/dms/image/D560BAQGLUQsYP7sqGA/company-logo_200_200/0/1666809807401?e=2147483647&v=beta&t=P8QzjtTaYkzHT-Tl78-Cr8RP6mOO4a22iE1tKpOC6ic",
+            "url":"https://www.codeium.com/"
+        },{
+            "name":"chatbot live",
+            "description":"Live chat offers human-to-human communication and adds empathy to support conversations, while chatbots elevate the support experience by offering instant answers and automating responses to support queries",
+            "imgUrl":"https://www.chatbot.com/og-images/og-image.71001a3911f5b36ce85247ad661524ab1307aab4892c38b225473e75e743997e.png",
+            "url":"https://www.chatbot.com/integrations/livechat/"
+        },{
+            "name":"Track time",
+            "description":"time tracking is a revolutionary way to track your working time. By tracking the things you do on your computer, an AI time tracking app can analyze how you spend your time",
+            "imgUrl":"https://www.pivotaltracker.com/marketing_assets/integrations/2019/timely-press-icon-rounded-512-a4b9a37a9a135875cda55961e00f71658c733b6294adfdc79ba59cb7106bfa8d.png",
+            "url":"https://timelyapp.com/features/automatic-time-tracking"
         }
     ],
+
+
     "designer":[
         {
             "name":"Outfitsai",
@@ -189,6 +294,8 @@
             "url":"https://www.outfitsai.com/"
         }
     ],
+
+
     "all":[
         {
             "name":"chatGPT",
@@ -363,6 +470,88 @@
             "description":"OutfitsAI is a website that uses artificial intelligence to suggest outfits and style recommendations to users based on their preferences and body type, making it a valuable tool for fashion enthusiasts and people who want to improve their personal style.",
             "imgUrl":"https://www.saashub.com/images/app/service_logos/234/fddqcw9qzkrc/large.png?1675593667",
             "url":"https://www.outfitsai.com/"
+        },{
+            "name":"opus Ai",
+            "description":"Opus AI can be used in a variety of applications, including natural language processing, image and video recognition, and predictive analytics.",
+            "imgUrl":"https://media.licdn.com/dms/image/C560BAQEgPsSC9ZtqKQ/company-logo_200_200/0/1656131594300?e=2147483647&v=beta&t=I7NoMmRlqhNJaFNXIGDCQi3tLX_jI-QTEsFvbQSMQcc",
+            "url":"https://opus.ai/"
+        },
+        {
+            "name":"Descript",
+            "description":"Descript website can be used to create and edit videos with features like transcription, captions, and automatic audio editing. ",
+            "imgUrl":"https://seeklogo.com/images/D/descript-logo-915E459F46-seeklogo.com.png",
+            "url":"https://www.descript.com/"
+        },
+        {
+            "name":"Voice mod",
+            "description":"Voice mod website can be used for voice modulation and adding various voice effects to recordings, videos, or live streams.",
+            "imgUrl":"https://www.voicemod.net/v4/wp-content/uploads/2021/05/Voicemod-logo.jpg",
+            "url":"https://www.voicemod.net/"
+        },
+        {
+            "name":"latent Labs",
+            "description":"Latent Labs website can be used for creating and deploying machine learning models for a wide range of applications, such as natural language processing, computer vision, and predictive analytics.",
+            "imgUrl":"https://latentlabs.xyz/media/500x500-LL-XYZ.png",
+            "url":"https://latentlabs.xyz/"
+        },
+        {
+            "name":"Quillbot",
+            "description":"Quillbot can be used for rephrasing sentences, paragraphs or entire articles in a way that preserves the meaning of the original text.",
+            "imgUrl":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hohs8swq3kxoldxg0crz",
+            "url":"https://quillbot.com/"
+        },
+        {
+            "name":"Genius sheets",
+            "description":"Genius Sheets website can be used for creating and sharing spreadsheets that can be accessed from anywhere",
+            "imgUrl":"https://attachments.developer.intuit.com/appcard-47243b68-a9c6-4153-93c5-ef2119fb3cbd.png",
+            "url":"https://www.geniussheets.com/"
+        },
+        {
+            "name":"murf",
+            "description":"",
+            "imgUrl":"https://elearningindustry.com/wp-content/uploads/2022/07/0acb6f302f5a661cecfb4584220b47eb.png",
+            "url":"https://murf.ai/"
+        },
+        {
+            "name":"Scribble diffusion",
+            "description":"Scribble Diffusion website can be used for creating and sharing digital illustrations, animations, and graphic designs.",
+            "imgUrl":"https://uploads-ssl.webflow.com/63994dae1033718bee6949ce/63ef4dad287fef66d8bb6a9b_scribblediffusion-logo.png",
+            "url":"https://scribblediffusion.com/"
+        },{
+            "name":"Eightify",
+            "description":" AI Youtube Summary with GPT. Instant AI summaries for Youtube videos using GPT.",
+            "imgUrl":"https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1673902625/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/hz6nhqytafnmyaivy8fl_jmxmsb.png",
+            "url":"https://eightify.app/"
+        },{
+            "name":"Do not Pay",
+            "description":"The company created the DoNotPay AI chatbot as a legal services tool meant to help people deal with minor legal issues such as late fees, fines and traffic tickets",
+            "imgUrl":"data:image/jpeg;base64,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",
+            "url":"https://donotpay.com/"
+        },{
+            "name":"Bluewillow",
+            "description":"Blue Willow is a new image generator AI tool designed to help users create logos, graphics, and photo realistic scenes",
+            "imgUrl":"https://external-preview.redd.it/bluewillow-ai-art-community-v0-6EOipS1I6OA5cNVDMHnyiShF7f2CG42h4HQ0eWiSaiA.jpg?auto=webp&s=b5ee6af4a183318f4d0de5b4ba5597998bd87558",
+            "url":"https://www.bluewillow.ai/"
+        },{
+            "name":"Brancher ai",
+            "description":"Brancher.ai is a platform that enables users to connect and use AI models to create powerful apps without the need for coding knowledge.",
+            "imgUrl":"https://www.freshconsulting.com/wp-content/uploads/fly-images/35143/brancher-blog-hero-1024x1024.jpg",
+            "url":"https://www.brancher.ai/"
+        },{
+            "name":"codeium",
+            "description":"Codeium is the modern coding superpower, a free code acceleration toolkit built on cutting edge AI technology. Currently, Codeium provides code completion tool in over 20+ languages, with lightning fast speeds and state-of-the-art suggestion quality",
+            "imgUrl":"https://media.licdn.com/dms/image/D560BAQGLUQsYP7sqGA/company-logo_200_200/0/1666809807401?e=2147483647&v=beta&t=P8QzjtTaYkzHT-Tl78-Cr8RP6mOO4a22iE1tKpOC6ic",
+            "url":"https://www.codeium.com/"
+        },{
+            "name":"chatbot live",
+            "description":"Live chat offers human-to-human communication and adds empathy to support conversations, while chatbots elevate the support experience by offering instant answers and automating responses to support queries",
+            "imgUrl":"https://www.chatbot.com/og-images/og-image.71001a3911f5b36ce85247ad661524ab1307aab4892c38b225473e75e743997e.png",
+            "url":"https://www.chatbot.com/integrations/livechat/"
+        },{
+            "name":"Track time",
+            "description":"time tracking is a revolutionary way to track your working time. By tracking the things you do on your computer, an AI time tracking app can analyze how you spend your time",
+            "imgUrl":"https://www.pivotaltracker.com/marketing_assets/integrations/2019/timely-press-icon-rounded-512-a4b9a37a9a135875cda55961e00f71658c733b6294adfdc79ba59cb7106bfa8d.png",
+            "url":"https://timelyapp.com/features/automatic-time-tracking"
         }
     ]
 }
